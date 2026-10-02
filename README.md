@@ -1,4 +1,3 @@
-# Angelo Fernando
 <h1 align="center">Hi 👋, I'm Angelo Fernando</h1>
 
 <p align="center">
